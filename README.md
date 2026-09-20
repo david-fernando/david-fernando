@@ -1,6 +1,6 @@
 # 👋 Hey, I'm David Fernando
 
-### Full-Stack Developer · SaaS Builder · API & Web Scraping
+### Full-Stack Developer · SaaS Builder & API
 
 I build **web applications, APIs and digital products** focused on solving real-world problems.
 
