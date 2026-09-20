@@ -4,7 +4,7 @@
 
 I build **web applications, APIs and digital products** focused on solving real-world problems.
 
-I'm especially interested in **SaaS, web scraping, automation, AI and developer tools**.
+I'm especially interested in **SaaS, web scraping, AI and developer tools**.
 
 ---
 
