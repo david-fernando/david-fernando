@@ -52,4 +52,4 @@ I'm available for **web applications, APIs, SaaS, and AI integrations**.
 
 If you're a **client, founder or recruiter** looking for a developer who enjoys building things from scratch, feel free to reach out.
 
-### [Linkedin](https://www.linkedin.com/in/david-fernando-souza/) · [My website](https://davidfernando.vercel.app/)
+### [Linkedin](https://www.linkedin.com/in/david-fernando-souza/) · [site](https://davidfernando.vercel.app/)
